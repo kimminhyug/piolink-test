@@ -2,7 +2,9 @@
 
 ## 실행방법
 
-프로젝트/html/index.html 실행
+프로젝트/html/index.html 실행.
+
+*본 과제는 chrome기준으로 개발되었습니다.
 
 ## 요구사항
 
