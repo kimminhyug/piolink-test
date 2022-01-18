@@ -24,8 +24,9 @@
 
 - 현재시간 기준으로 (현재시간 ~ 2시간후) 사이에 60개의 랜덤으로 데이터를 생성하며 차트에 시각화.
 
+## gif
 
-
+![piolink-test](https://user-images.githubusercontent.com/42853144/149870699-7fa6e447-4d04-4b22-b753-50393c6aa2e8.gif)
 
 
 
